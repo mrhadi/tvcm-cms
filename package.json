@@ -1,0 +1,23 @@
+{
+  "name": "tvcm",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "immutable": "^3.8.2",
+    "react": "^16.3.2",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.2",
+    "react-dynamic-forms": "^1.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "eslint-plugin-jsx-a11y": "^5.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

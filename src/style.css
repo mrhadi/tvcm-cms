@@ -1,0 +1,16 @@
+h1{
+  padding: 20px 0;
+  border-bottom: 1px solid grey;
+}
+a.delete{
+  float: right;
+  margin-top: 38px;
+}
+ul#columns {
+  list-style-type: none;
+  padding: 20px 0;
+}
+button.btn{
+  width: 200px;
+  margin-bottom: 20px;
+}
